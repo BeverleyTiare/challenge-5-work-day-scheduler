@@ -13,18 +13,15 @@ The different time frames are specified by various colors as follows: grey = pas
 A screenshot depicts the project as below:
 ![screenshot of application](/images/main.png "application main page")
 
-``/Users/beverleywitherington/Desktop/USYD Coding Bootcamp/GitHub/Challenges/Challenge 5/crispy-octo-meme/Assets/wds.png``
-
-
-
 ## Usage
 
 To use the application, open the password generator via index. HTML file in your browser to view the day tracker.
 
-**The URL of the functional, deployed application on GitHub Pages: ``http://127.0.0.1:5500/crispy-octo-meme/Develop/index.html``
+The URL of the GitHub repository.
+https://github.com/BeverleyTiare/challenge-5-work-day-scheduler
 
-**The URL of the GitHub repository:  
-
+The URL of the functional, deployed application on GitHub Pages.
+https://beverleytiare.github.io/challenge-5-work-day-scheduler/
 
 ## Acknowledgement
 
