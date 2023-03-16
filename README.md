@@ -1,6 +1,6 @@
 # Day Tracker
 
-Simplistic  color-coded calendar app that uses JQuery and Day.js, and that incorporates local storage: so allowing user to save and track events of the day per hour. 
+Simplistic color-coded calendar app that uses JQuery and Day.js, and that incorporates local storage: so allowing user to save and track events of the day per hour. 
 
 
 # Usage
